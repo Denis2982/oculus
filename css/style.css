@@ -429,9 +429,6 @@ body {
   text-align: center;
   width: 100%;
 }
-.contacts {
-  margin-bottom: 100px;
-}
 .contacts__title {
   font-size: 24px;
   line-height: 28px;
@@ -482,6 +479,7 @@ body {
   color: #5C5C5E;
 }
 .footer {
+  margin-top: 100px;
   margin-bottom: 44px;
   border-top: 1px solid #CACAD6;
   border-bottom: 1px solid #CACAD6;
@@ -491,8 +489,4 @@ body {
   display: flex;
   grid-template: 20px;
   justify-self: end;
-}
-.social__item {
-}
-.social__link {
 }
